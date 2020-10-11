@@ -11,7 +11,7 @@
   <a href="https://github.com/oliver-gomes/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliver-gomes=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliver-gomes&layout=compact"
     />
   </a>
   <a href="https://github.com/oliver-gomes/github-readme-stats">
