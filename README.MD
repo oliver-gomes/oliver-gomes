@@ -25,7 +25,7 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Abstract
+<!-- ### Abstract -->
 
 - 👨‍💻 I'm currently working full-time at **AGA**.
 <!-- - 🌱 Learning more about and studying: **NodeJS, DevOps and K8s**. -->
