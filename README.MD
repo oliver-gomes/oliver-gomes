@@ -28,8 +28,8 @@
 <!-- ### Abstract -->
 
 - 👨‍💻 I'm currently working full-time at **AGA**.
-<!-- - 🌱 Learning more about and studying: **NodeJS, DevOps and K8s**. -->
-<!-- - 💙 Interests: games 👾, cats (Loki 🐱). -->
+  <!-- - 🌱 Learning more about and studying: **NodeJS, DevOps and K8s**. -->
+  <!-- - 💙 Interests: games 👾, cats (Loki 🐱). -->
 
 ### Languages and Tools
 
@@ -38,7 +38,7 @@
 <p align="left">
   <a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/react/react-original-wordmark.svg"
       alt="react"
       width="40"
       height="40"
@@ -47,7 +47,7 @@
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
       height="40"
@@ -65,7 +65,7 @@
 
   <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
       width="40"
       height="40"
@@ -73,7 +73,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
       width="40"
       height="40"
@@ -88,10 +88,9 @@
     />
   </a> -->
 
-
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/typescript/typescript-original.svg"
       alt="typescript"
       width="40"
       height="40"
@@ -99,7 +98,7 @@
   </a>
     <a href="https://aws.amazon.com" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
       alt="aws"
       width="40"
       height="40"
