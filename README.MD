@@ -27,7 +27,7 @@
 
 <!-- ### Abstract -->
 
-- 👨‍💻 I'm currently working full-time at **AGA**.
+<!-- - 👨‍💻 I'm currently working full-time at **AGA**. -->
   <!-- - 🌱 Learning more about and studying: **NodeJS, DevOps and K8s**. -->
   <!-- - 💙 Interests: games 👾, cats (Loki 🐱). -->
 
