@@ -1,7 +1,7 @@
+<h4 align="center">Follow to find out my new spells (repo)</h4>
 <p align="center">
-
-  <a href="#">
-    <img align="center" width="510" src="banner.gif" />
+  <a href="#" >
+    <img align="center" width="300" src="hp-wand.gif" />
   </a>
 </p>
 
